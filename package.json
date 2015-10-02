@@ -1,0 +1,22 @@
+{
+  "name": "kowa-http",
+  "version": "0.0.1",
+  "description": "Kowa http: asynchronous performance and synchronous simplicity",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": "https://github.com/riadhchtara/kowa-http",
+  "keywords": [
+    "async",
+    "sync",
+    "kowa",
+    "task",
+    "promise"
+  ],
+  "author": "Riadh Chtara",
+  "license": "APL 2.0",
+  "dependencies": {
+    "kowa": "0.0.3"
+  }
+}
